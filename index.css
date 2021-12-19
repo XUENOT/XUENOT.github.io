@@ -1,0 +1,6 @@
+/* 當螢幕框度大於768px才生效 */
+@media (min-width: 768px) {
+    .news-input{
+        width: 50%;
+    }
+}
